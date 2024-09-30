@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_slidable/flutter_slidable.dart';
+import 'package:stripe_sdk/widget/src/widgets/slidable.dart';
+import 'package:stripe_sdk/widget/src/widgets/slidable_action_pane.dart';
+import 'package:stripe_sdk/widget/src/widgets/slide_action.dart';
 
 import '../../stripe.dart';
 import '../../ui/stores/payment_method_store.dart';
