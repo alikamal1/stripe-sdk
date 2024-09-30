@@ -2,8 +2,8 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter_slidable/src/widgets/fractionnally_aligned_sized_box.dart';
-import 'package:flutter_slidable/src/widgets/slidable_dismissal.dart';
+import 'package:stripe_sdk/widget/slidable/fractionnally_aligned_sized_box.dart';
+import 'package:stripe_sdk/widget/slidable/slidable_dismissal.dart';
 
 const double _kActionsExtentRatio = 0.25;
 const double _kFastThreshold = 2500;
